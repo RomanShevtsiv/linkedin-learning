@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Visual Studio Code worspace file
+workspace.code-workspace
+
+# OSX folder files
+.DS_Store
